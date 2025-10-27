@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  margin: 50px 100px;
+}
+
+@media (max-width: 900px) {
+  .container {
+    margin: 0;
+  }
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+#root {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}

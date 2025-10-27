@@ -1,0 +1,9 @@
+<svg width="200" height="50" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: bold 32px sans-serif; fill: #2874f0; }
+    .pen { fill: #FB641B; }
+  </style>
+  <text x="10" y="35" class="title">InkPulse</text>
+  <path class="pen" d="M180 10 l5 5 l-15 15 l-5 -5 z"/>
+  <rect class="pen" x="162" y="27" width="3" height="8" transform="rotate(-45 162 27)"/>
+</svg>
